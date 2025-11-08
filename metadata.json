@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Architect",
+  "description": "An application that takes your app idea and generates a detailed design and development prompt using the Gemini API.",
+  "requestFramePermissions": []
+}
